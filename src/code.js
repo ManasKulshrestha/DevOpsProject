@@ -50,7 +50,7 @@ const App = () => {
 
     return (
         <div className="app">
-            <h1> A Calendar Application </h1>
+            <h1> GeeksforGeeks Calendar Application </h1>
             <div className="container">
                 <div className="calendar-container">
                     <Calendar
